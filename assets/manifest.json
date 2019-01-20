@@ -1,0 +1,20 @@
+{
+  "short_name": "Refine Asia",
+  "name": "Refine Asia",
+  "icons": [
+    {
+      "src": "/images/assets/images/logo/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/assets/images/logo/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/home",
+  "background_color": "#131E29",
+  "display": "standalone",
+  "theme_color": "#131E29"
+}
