@@ -56,11 +56,11 @@ h4,
 h5,
 .h5,
 h6,
-.h6{line-height:1.2;font-weight:600;color:#131E29;}
+.h6{line-height:1.2;font-weight:normal;color:#131E29;}
 h1,
-.h1{font-size:32px;font-family: "chap-regular", sans-serif !important;}
+.h1{font-size:36px;font-family: "chap-regular", sans-serif !important;}
 h2,
-.h2{font-size:26px;font-family: "chap-regular", sans-serif !important;}
+.h2{font-size:30px;font-family: "chap-regular", sans-serif !important;}
 h3,
 .h3{font-size:20px;font-family: "chap-regular", sans-serif !important;}
 h4,
