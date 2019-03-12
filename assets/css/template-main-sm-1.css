@@ -62,7 +62,7 @@ h1,
 h2,
 .h2{font-size:30px;font-family: "chap-regular", sans-serif !important;}
 h3,
-.h3{font-size:20px;font-family: "chap-regular", sans-serif !important;}
+.h3{font-size:24px;font-family: "chap-regular", sans-serif !important;}
 h4,
 .h4{font-size:18px;font-family: "chap-regular", sans-serif !important;}
 h5,
@@ -1394,7 +1394,7 @@ a.footerlink:hover,focus {
       z-index: 2; }
   .fdb-block img.fdb-icon {
     width: auto;
-    width: 5rem; } 
+    width: 6rem; }
   .fdb-block img.fdb-icon-round {
     width: auto;
     width: 3.75rem; }
