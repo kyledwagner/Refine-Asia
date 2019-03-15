@@ -1574,3 +1574,11 @@ a.footerlink:hover,focus {
     margin-top: -1rem;
     }
   }
+
+@media only screen and (min-width: 992px) {
+.large-grid-fix {
+  padding-top: 4rem !important;
+  padding-bottom: 4rem !important;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
