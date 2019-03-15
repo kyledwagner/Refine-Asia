@@ -1424,7 +1424,7 @@ a.footerlink:hover,focus {
     }
 
     @media only screen and (max-width: 720px) {
-      .col-lg-6 {
+      .col-lg-8 {
         padding: 2.2em !important;
       }
     }
