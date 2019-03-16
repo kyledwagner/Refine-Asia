@@ -1418,14 +1418,8 @@ a.footerlink:hover,focus {
 
     @media only screen and (max-width: 992px) {
       .fdb-block .container {
-        padding-top: 0;
+        padding-top: 2.2em;
         padding-bottom: 2.2em;
-      }
-    }
-
-    @media only screen and (max-width: 992px) {
-      .cta-block {
-        padding-top: 2.2em !important;
       }
     }
 
