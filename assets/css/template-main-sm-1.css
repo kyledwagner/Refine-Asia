@@ -1525,7 +1525,7 @@ a.footerlink:hover,focus {
 
 @media only screen and (max-width: 600px) {
 .fdb-block .fdb-box {
-    padding: 1rem 1rem;
+    padding: 1.5rem 1.5rem;
   }
 }
 
