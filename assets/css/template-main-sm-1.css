@@ -1412,7 +1412,7 @@ a.footerlink:hover,focus {
       .fdb-block {
         padding-left: 1.2em;
         padding-right: 1.2em;
-        padding-bottom: 2.2em;
+        padding-bottom: 0em;
       }
     }
 
