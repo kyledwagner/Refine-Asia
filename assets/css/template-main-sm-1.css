@@ -1413,6 +1413,7 @@ a.footerlink:hover,focus {
         padding-left: 1.2em;
         padding-right: 1.2em;
         padding-bottom: 0em;
+        padding-top: 0em;
       }
     }
 
